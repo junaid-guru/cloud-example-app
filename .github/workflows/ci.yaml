@@ -9,3 +9,4 @@ jobs:
   deploy:
     uses: poly-glot/cloud/.github/workflows/deploy.yaml@main
     secrets: inherit
+
